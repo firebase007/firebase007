@@ -1,4 +1,4 @@
-### Hei there 👋 and welcome to my profile page :blush:
+### Hei 👋 and welcome to my profile page :blush:
 
 #### Interested in learning more about me? Well, here are a few information (which might change as time goes on) 😉
 

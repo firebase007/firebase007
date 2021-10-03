@@ -1,6 +1,6 @@
 ### Hei 👋 and welcome to my profile page :blush:
 
-#### Interested in learning more about me? Well, here are a few information (which might change as time goes on) 😉
+#### Interested in learning more about me? Here are a few information (which might change as time goes on) 😉
 
 
 - 🔭 I’m currently working on some side projects, while studying for a masters degree in Computer Science at the University of Eastern Finland, Joensuu. I'm also currently searching for a permanent full-time role in Backend Engineering at a company with a great culture. It's crazy I know, but I work hard to stay in good shape and make a difference. :wink:

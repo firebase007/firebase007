@@ -1,19 +1,13 @@
-### Hei 👋 and welcome to my profile page :blush:
+### Hey there 👋, welcome to my profile. Here are some interesting things about me ;) 
 
-#### Interested in learning more about me? Here are a few information (which might change as time goes on) 😉
-
-
-- 🔭 I’m currently working on some side projects, while studying for a masters degree in Computer Science at the University of Eastern Finland, Joensuu. It's crazy I know, but I work hard to stay in good shape and make a difference. :wink:
 - 🌱 I love Go and I plan to transition to building cloud based applications in the future. :fire:
 - 👯 I’m looking to collaborate more on open source projects and on content creation related to Go and Node.js/JavaScript :eyes:
-- 🤔 I’m love large scale distributed systems and how they all play together. Looking to learn more. :eyes:
-- 💬 Ask me about general software development topics and specifically on topics related to Backend Engineering. I have written Node.js for almost 5 years while breaking and fixing a bunch of production systems/microservices in the process. I know Docker, some Kubernetes and a couple of AWS services. Looking to explore more of those. :yellow_heart:
-- 📫 How to reach me: via my email at - alex.nnakwue@gmail.com or on twitter -  @alex_nnakwue
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play soccer/Football and I'm pretty good at it. :star:
+- 🤔 I love large scale distributed systems and how they all play together. Looking to learn more. :eyes:
+- 💬 Ask me about general software development topics and specifically on topics related to Backend Engineering. I love Docker, Kubernetes and AWS services. Looking to explore more of these tech in the future. :yellow_heart:
+- ⚡ Fun fact: I play Football and I'm pretty good at it. :star:
 
 
-## Blog
+## Some of my Blog Posts 
 
 - [Going Serverless in Node.js](https://blog.logrocket.com/going-serverless-node-js-apps/)
 - [Caching in Node.js](https://blog.logrocket.com/caching-node-js-optimizing-app-performance-redis/)
@@ -30,4 +24,4 @@
 - [Real-time data streaming with Apache kafka](https://blog.logrocket.com/real-time-data-streaming-app-apache-kafka/)
 
 
-Please, feel free to reach out if you have any other question(s) for me. 😉
+Please, feel free to reach out if you have any question(s). 😉

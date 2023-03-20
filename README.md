@@ -1,5 +1,7 @@
 ### Hey there 👋, welcome to my profile. Here are some interesting things about me ;) 
 
+ [![wakatime](https://wakatime.com/badge/user/ff7938e2-4c19-4b75-9a97-3580f7296bde.svg)](https://wakatime.com/@ff7938e2-4c19-4b75-9a97-3580f7296bde)
+
 - 🌱 I love Go and I plan to transition to building cloud based applications in the future. :fire:
 - 👯 I’m looking to collaborate more on open source projects and on content creation related to Go and Node.js/JavaScript :eyes:
 - 🤔 I love large scale distributed systems and how they all play together. Looking to learn more. :eyes:
